@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.hackathon_2023"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.hackathon_2023"
